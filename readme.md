@@ -6,3 +6,6 @@ https://zhuanlan.zhihu.com/p/605933425
 
 缓存解读
 https://juejin.cn/post/6844903747357769742?utm_source=gold_browser_extension
+
+learn typescript
+https://juejin.cn/post/7009046640308781063
